@@ -1,0 +1,16 @@
+{
+  "name": "labeled-tweet-generator",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
